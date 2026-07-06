@@ -28,4 +28,5 @@ QUESTION 2.
 First set up the inital postition somewhere in the reachable area(i took the one given in the example). Take input from the user regarding the which axis they want to move upon and how much. Use Inverse Kinematics to figure out the angles. Then publish it to move the robot in rviz to the desired location. Update the current location internally.
 
 Couldnt fix the flicker problem that happens whenever i run the controller script.
+
 Video is attached.
